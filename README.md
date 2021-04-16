@@ -1,1 +1,1 @@
-# vanilla-temp
+# Website Template - Vanilla
